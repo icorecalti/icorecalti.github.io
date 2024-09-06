@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icorecalti.github.io/sitemap.html.gz
+Sitemap: https://icorecalti.github.io/app/sitemap.html.gz
+Sitemap: https://icorecalti.github.io/assets/sitemap.html.gz
+Sitemap: https://icorecalti.github.io/css/sitemap.html.gz
+Sitemap: https://icorecalti.github.io/includes/sitemap.html.gz
+Sitemap: https://icorecalti.github.io/item/sitemap.html.gz
+Sitemap: https://icorecalti.github.io/src/sitemap.html.gz
